@@ -1,6 +1,6 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Maintainer: 
-"       Adrian Deardorff @adeardorff@nuro.ai
+"       Adrian Deardorff 80deardorff@gmail.com
 "
 " Sections:
 "    -> Implementing Vundle
